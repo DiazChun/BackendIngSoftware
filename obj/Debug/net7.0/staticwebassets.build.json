@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v6XQScwBcDV21g568Umj21G6xZVxSgVWdNlRAKM8Xqc=",
+  "Source": "API-SGAMI",
+  "BasePath": "_content/API-SGAMI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
